@@ -5,8 +5,8 @@ public interface WaterVehicle {
     public int getVehicleCapacity();
 }
 class Boat implements WaterVehicle{
-    String name;
-    int capacity;
+    public String name;
+    public int capacity;
     public Boat(String name,int capacity){
         this.name = name;
         this.capacity = capacity;
