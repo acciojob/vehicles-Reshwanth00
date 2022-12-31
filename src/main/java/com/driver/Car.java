@@ -27,11 +27,7 @@ public class Car extends Vehicle {
         return doors;
     }
 
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> 739f0d95062fcd4271d864e5e96af015786cb382
     public int getCurrentGear() {
         return currentGear;
     }
